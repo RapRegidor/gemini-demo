@@ -24,7 +24,7 @@ def run():
         page_icon=" 🌟",
     )
 
-    st.write("# Welcome to the Gemini Demo! 🌟")
+    st.write("# Welcome to the Project Alpaca Demo! 🌟")
 
     st.sidebar.success("Select a demo above.")
 
